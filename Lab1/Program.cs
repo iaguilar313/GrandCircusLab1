@@ -29,7 +29,7 @@ namespace Lab1
 
 
                 Double Perimeter;
-                Perimeter = (Lenght * 2) + (Width * 2);
+                Perimeter = 2 * (Lenght + Width);
                 Console.WriteLine("The Perimeter is" + Perimeter);
                
 
