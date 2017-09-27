@@ -24,14 +24,14 @@ namespace Lab1
 
                 Double Area;
                 Area = Lenght * Width;
-                Console.WriteLine("The Area is");
-                Console.WriteLine(Area);
+                Console.WriteLine("The Area is" + Area);
+                        
 
 
                 Double Perimeter;
                 Perimeter = (Lenght * 2) + (Width * 2);
-                Console.WriteLine("The Perimeter is");
-                Console.WriteLine(Perimeter);
+                Console.WriteLine("The Perimeter is" + Perimeter);
+               
 
 
                 Console.WriteLine("Do you want to continue? Enter Y or N");
